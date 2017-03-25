@@ -1,0 +1,257 @@
+{
+  "luis_schema_version": "1.3.0",
+  "name": "Home Automation",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "settemperature"
+    },
+    {
+      "name": "turnlightsoff"
+    },
+    {
+      "name": "turnlightson"
+    }
+  ],
+  "entities": [
+    {
+      "name": "room"
+    }
+  ],
+  "composites": [
+    {
+      "name": "desiredtemperature",
+      "children": [
+        "temperature"
+      ]
+    },
+    {
+      "name": "timerange",
+      "children": [
+        "datetime"
+      ]
+    }
+  ],
+  "closedLists": [],
+  "bing_entities": [
+    "datetime",
+    "temperature"
+  ],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "turn all lights on",
+      "intent": "turnlightson",
+      "entities": []
+    },
+    {
+      "text": "turn on the lights at 8am until 5 pm",
+      "intent": "turnlightson",
+      "entities": [
+        {
+          "entity": "timerange",
+          "startPos": 5,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "turn all the lights on in the house",
+      "intent": "turnlightson",
+      "entities": []
+    },
+    {
+      "text": "turn the light on in the kitchen",
+      "intent": "turnlightson",
+      "entities": [
+        {
+          "entity": "room",
+          "startPos": 6,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "turn the lights on",
+      "intent": "turnlightson",
+      "entities": []
+    },
+    {
+      "text": "turn all the lights off",
+      "intent": "turnlightsoff",
+      "entities": []
+    },
+    {
+      "text": "turn off lights between 10 pm and 6 am",
+      "intent": "turnlightsoff",
+      "entities": [
+        {
+          "entity": "timerange",
+          "startPos": 3,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "turn off the lights in the kitchen between 6pm and 9pm",
+      "intent": "turnlightsoff",
+      "entities": [
+        {
+          "entity": "timerange",
+          "startPos": 7,
+          "endPos": 10
+        },
+        {
+          "entity": "room",
+          "startPos": 6,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "turn off the lights in the kitchen after 6 pm",
+      "intent": "turnlightsoff",
+      "entities": [
+        {
+          "entity": "timerange",
+          "startPos": 7,
+          "endPos": 9
+        },
+        {
+          "entity": "room",
+          "startPos": 6,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "turn the lights off in the kitchen at 10 pm",
+      "intent": "turnlightsoff",
+      "entities": [
+        {
+          "entity": "timerange",
+          "startPos": 8,
+          "endPos": 9
+        },
+        {
+          "entity": "room",
+          "startPos": 6,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "switch the lights off",
+      "intent": "turnlightsoff",
+      "entities": []
+    },
+    {
+      "text": "set the temperature in the kitchen to 23c",
+      "intent": "settemperature",
+      "entities": [
+        {
+          "entity": "desiredtemperature",
+          "startPos": 7,
+          "endPos": 7
+        },
+        {
+          "entity": "room",
+          "startPos": 5,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "turn the heating down to 20c",
+      "intent": "settemperature",
+      "entities": [
+        {
+          "entity": "desiredtemperature",
+          "startPos": 5,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "set the temperature in the living room to 19 degrees c",
+      "intent": "settemperature",
+      "entities": [
+        {
+          "entity": "room",
+          "startPos": 5,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "set the temperature in the kitchen to be 19c after 9pm",
+      "intent": "settemperature",
+      "entities": [
+        {
+          "entity": "desiredtemperature",
+          "startPos": 8,
+          "endPos": 8
+        },
+        {
+          "entity": "timerange",
+          "startPos": 9,
+          "endPos": 10
+        },
+        {
+          "entity": "room",
+          "startPos": 5,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "set the temperature to be 20 degrees in the kitchen",
+      "intent": "settemperature",
+      "entities": [
+        {
+          "entity": "room",
+          "startPos": 9,
+          "endPos": 9
+        }
+      ]
+    },
+    {
+      "text": "set the temperature to 10 degrees at 9am in the living room",
+      "intent": "settemperature",
+      "entities": [
+        {
+          "entity": "desiredtemperature",
+          "startPos": 4,
+          "endPos": 5
+        },
+        {
+          "entity": "timerange",
+          "startPos": 7,
+          "endPos": 7
+        },
+        {
+          "entity": "room",
+          "startPos": 10,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "set the temperature to 10 degrees",
+      "intent": "settemperature",
+      "entities": [
+        {
+          "entity": "desiredtemperature",
+          "startPos": 4,
+          "endPos": 5
+        }
+      ]
+    }
+  ]
+}

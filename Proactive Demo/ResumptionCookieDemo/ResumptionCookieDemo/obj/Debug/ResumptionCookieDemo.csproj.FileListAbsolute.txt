@@ -1,0 +1,116 @@
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.dll.config
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.pdb
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Autofac.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Chronic.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Newtonsoft.Json.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Net.Http.Formatting.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.WebHost.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Autofac.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\Newtonsoft.Json.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Net.Http.Formatting.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.WebHost.xml
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\ResumptionCookieDemo.csprojResolveAssemblyReference.cache
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.dll
+C:\tdbots\techdays\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.pdb
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.dll.config
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.pdb
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Autofac.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Chronic.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Newtonsoft.Json.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Net.Http.Formatting.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.WebHost.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Autofac.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\Newtonsoft.Json.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Net.Http.Formatting.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.WebHost.xml
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\ResumptionCookieDemo.csprojResolveAssemblyReference.cache
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.dll
+C:\git\TechDaysOnline\Session2\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.pdb
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.dll.config
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Bot Application1.pdb
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Autofac.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Chronic.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Newtonsoft.Json.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Net.Http.Formatting.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.WebHost.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Autofac.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\Newtonsoft.Json.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Net.Http.Formatting.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\System.Web.Http.WebHost.xml
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.dll
+C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.pdb
