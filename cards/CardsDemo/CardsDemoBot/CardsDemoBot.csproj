@@ -121,6 +121,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
     <Compile Include="Dialogs\CardsDemoDialog.cs" />
+    <Compile Include="Dialogs\NativeCardsDemoDialog.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -129,6 +130,8 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\AllChannelsBot - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\CustomerChannelDataBot - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\CustomerChannelDataBot - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -73,6 +73,6 @@ C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\fr\Microsoft.Bot.Builder.resources.
 C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
 C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
 C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-C:\caaphack\cards\CardsDemo\CardsDemoBot\obj\Debug\CardsDemoBot.csprojResolveAssemblyReference.cache
 C:\caaphack\cards\CardsDemo\CardsDemoBot\obj\Debug\Bot Application1.dll
 C:\caaphack\cards\CardsDemo\CardsDemoBot\obj\Debug\Bot Application1.pdb
+C:\caaphack\cards\CardsDemo\CardsDemoBot\obj\Debug\CardsDemoBot.csprojResolveAssemblyReference.cache

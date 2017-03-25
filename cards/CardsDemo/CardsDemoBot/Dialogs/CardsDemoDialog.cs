@@ -118,7 +118,7 @@ namespace CardsDemoBot.Dialogs
             {
                 Title = "I'm a receipt card, isn't this bacon expensive?",
                 Buttons = cardButtons,
-                Items = receiptList,
+                Items = receiptList, 
                 Total = "275.25",
                 Tax = "27.52"
             };

@@ -1,0 +1,39 @@
+C:\caaphack\cards\CardsDemo\CardsDemoBot\obj\Release\CardsDemoBot.csprojResolveAssemblyReference.cache
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Bot Application1.dll.config
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Bot Application1.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Bot Application1.pdb
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Autofac.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Chronic.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.Bot.Builder.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.Bot.Connector.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Newtonsoft.Json.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.Net.Http.Formatting.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.Web.Http.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.Web.Http.WebHost.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Autofac.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.Bot.Builder.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.Bot.Connector.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\Newtonsoft.Json.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.Net.Http.Formatting.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.Web.Http.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\System.Web.Http.WebHost.xml
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\obj\Release\Bot Application1.dll
+C:\caaphack\cards\CardsDemo\CardsDemoBot\obj\Release\Bot Application1.pdb
