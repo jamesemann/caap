@@ -23,12 +23,12 @@ namespace DialogsDemo.Dialogs.Balance
         {
             var message = await argument;
 
-            if (message.Text.ToLower().Equals("current", StringComparison.InvariantCultureIgnoreCase))
+            if (message.Text.Equals("current", StringComparison.InvariantCultureIgnoreCase))
             {
                 // State transition - add 'current account' Dialog to the stack, when done call AfterChildDialogIsDone callback
                 context.Call<object>(new CheckBalanceCurrentDialog(), AfterChildDialogIsDone);
             }
-            else if (message.Text.ToLower().Equals("savings", StringComparison.InvariantCultureIgnoreCase))
+            else if (message.Text.Equals("savings", StringComparison.InvariantCultureIgnoreCase))
             {
                 // State transition - add 'savings account' Dialog to the stack, when done call AfterChildDialogIsDone callback
                 context.Call<object>(new CheckBalanceSavingsDialog(), AfterChildDialogIsDone);

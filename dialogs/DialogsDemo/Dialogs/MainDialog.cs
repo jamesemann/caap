@@ -29,12 +29,12 @@ namespace DialogsDemo.Dialogs
         {
             var message = await argument;
 
-            if (message.Text.ToLower().Equals("check balance", StringComparison.InvariantCultureIgnoreCase))
+            if (message.Text.Equals("check balance", StringComparison.InvariantCultureIgnoreCase))
             {
                 // State transition - add 'check balance' Dialog to the stack, when done call AfterChildDialogIsDone callback
                 context.Call<object>(new CheckBalanceDialog(), AfterChildDialogIsDone);
             }
-            else if (message.Text.ToLower().Equals("make payment", StringComparison.InvariantCultureIgnoreCase))
+            else if (message.Text.Equals("make payment", StringComparison.InvariantCultureIgnoreCase))
             {
                 // State transition - add 'make payment' Dialog to the stack, when done call AfterChildDialogIsDone callback
                 context.Call<object>(new MakePaymentDialog(), AfterChildDialogIsDone);
