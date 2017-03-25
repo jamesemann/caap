@@ -19,8 +19,10 @@ namespace DialogsDemo.Dialogs
 
         public async Task MessageReceivedStart(IDialogContext context, IAwaitable<IMessageActivity> argument)
         {
-            await context.PostAsync($"[MainDialog] I'm banking 🤖{Environment.NewLine}Would you like to:{Environment.NewLine}- Check balance 💰{Environment.NewLine}- Make payment 💸");
+            var message = Cards.CreateImBackHeroCard(context.MakeMessage(), $"[MainDialog] I'm banking 🤖{Environment.NewLine}Would you like to?", new string[] { "Check balance", "Make payment" });
 
+            await context.PostAsync(message);
+            
             // State transition - wait for 'operation choice' message from user
             context.Wait(MessageReceivedOperationChoice);
         }
@@ -48,7 +50,9 @@ namespace DialogsDemo.Dialogs
 
         private async Task AfterChildDialogIsDone(IDialogContext context, IAwaitable<object> result)
         {
-            await context.PostAsync($"[MainDialog] Anything else I can help with?:{Environment.NewLine}- Check balance 💰{Environment.NewLine}- Make payment 💸");
+            var message = Cards.CreateImBackHeroCard(context.MakeMessage(), $"[MainDialog] Can I help with anything else? {Environment.NewLine}", new string[] { "Check balance", "Make payment" });
+
+            await context.PostAsync(message);
 
             // State transition - wait for 'operation choice' message from user (loop back)
             context.Wait(MessageReceivedOperationChoice);

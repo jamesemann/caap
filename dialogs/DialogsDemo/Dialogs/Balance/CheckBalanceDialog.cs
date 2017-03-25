@@ -13,9 +13,10 @@ namespace DialogsDemo.Dialogs.Balance
         // Entry point to the Dialog
         public async Task StartAsync(IDialogContext context)
         {
-            await context.PostAsync($"[CheckBalanceDialog] Which account?{Environment.NewLine}- Current{Environment.NewLine}- Savings");
+            var message = Cards.CreateImBackHeroCard(context.MakeMessage(), "[CheckBalanceDialog] Which account?", new string[] { "Current", "Savings" });
 
-            // State transition - wait for 'operation choice' message from user
+            await context.PostAsync(message);
+            
             context.Wait(MessageReceivedOperationChoice);
         }
 
@@ -35,7 +36,9 @@ namespace DialogsDemo.Dialogs.Balance
             }
             else
             {
-                await context.PostAsync($"[CheckBalanceDialog] Sorry, I don't understand! Which account?{Environment.NewLine}- Current{Environment.NewLine}- Savings");
+                var reply = Cards.CreateImBackHeroCard(context.MakeMessage(), "[CheckBalanceDialog] Sorry, I don't understand! Which account?", new string[] { "Current", "Savings" });
+
+                await context.PostAsync(reply);
 
                 // State transition - wait for 'operation choice' message from user (loop back)
                 context.Wait(MessageReceivedOperationChoice);
