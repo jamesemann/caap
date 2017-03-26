@@ -23,12 +23,21 @@ namespace ResumptionCookieDemo
                 Activity reply = activity.CreateReply($"I don't know how to automatically deal with your query - so I've passed it on to a 👨🏽 who will get back to you!");
                 await connector.Conversations.ReplyToActivityAsync(reply);
 
-                var resumptionCookie = new ResumptionCookie(activity);
+                var resumptionCookie = new ConversationReference(activity.Id,
+                    activity.From, activity.Recipient, activity.Conversation, activity.ChannelId, activity.ServiceUrl);
+                    
                 var data = JsonConvert.SerializeObject(resumptionCookie);
 
                 // For demonstration - save the cookie to disk.  For a real application
                 // save to your persistent store - e.g. blob storage, table storage, document db, etc
                 File.WriteAllText(System.Web.Hosting.HostingEnvironment.MapPath("~/cookie.json"), data);
+            }
+            else if (activity.GetActivityType() == "event")
+            {
+                var connector = new ConnectorClient(new Uri(activity.ServiceUrl));
+                Activity reply = activity.CreateReply($"event");
+                await connector.Conversations.ReplyToActivityAsync(reply);
+
             }
             var response = Request.CreateResponse(HttpStatusCode.OK);
             return response;

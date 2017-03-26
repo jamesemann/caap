@@ -114,3 +114,45 @@ C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookie
 C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
 C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.dll
 C:\tdo\TechDaysOnline\James\Proactive Demo\ResumptionCookieDemo\ResumptionCookieDemo\obj\Debug\Bot Application1.pdb
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Bot Application1.dll.config
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Bot Application1.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Bot Application1.pdb
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Autofac.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Chronic.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Newtonsoft.Json.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.Net.Http.Formatting.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.Web.Http.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.Web.Http.WebHost.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Autofac.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\Newtonsoft.Json.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.Net.Http.Formatting.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.Web.Http.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\System.Web.Http.WebHost.xml
+C:\caaphack\proactive\ResumptionCookieDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\caaphack\proactive\ResumptionCookieDemo\obj\Debug\ResumptionCookieDemo.csprojResolveAssemblyReference.cache
+C:\caaphack\proactive\ResumptionCookieDemo\obj\Debug\Bot Application1.dll
+C:\caaphack\proactive\ResumptionCookieDemo\obj\Debug\Bot Application1.pdb
