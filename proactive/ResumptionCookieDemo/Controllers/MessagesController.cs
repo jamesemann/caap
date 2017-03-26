@@ -1,5 +1,4 @@
-﻿using Microsoft.Bot.Builder.Dialogs;
-using Microsoft.Bot.Connector;
+﻿using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
 using System;
 using System.IO;
@@ -13,8 +12,6 @@ namespace ResumptionCookieDemo
     [BotAuthentication]
     public class MessagesController : ApiController
     {
-        // Credit: Robin Osborne
-        // http://robinosborne.co.uk/2017/01/02/sending-proactive-botframework-messages
         public async Task<HttpResponseMessage> Post([FromBody]Activity activity)
         {
             if (activity.GetActivityType() == "message")
@@ -30,15 +27,9 @@ namespace ResumptionCookieDemo
 
                 // For demonstration - save the cookie to disk.  For a real application
                 // save to your persistent store - e.g. blob storage, table storage, document db, etc
-                File.WriteAllText(System.Web.Hosting.HostingEnvironment.MapPath("~/cookie.json"), data);
+                File.WriteAllText(System.Web.Hosting.HostingEnvironment.MapPath("~/resume.json"), data);
             }
-            else if (activity.GetActivityType() == "event")
-            {
-                var connector = new ConnectorClient(new Uri(activity.ServiceUrl));
-                Activity reply = activity.CreateReply($"event");
-                await connector.Conversations.ReplyToActivityAsync(reply);
 
-            }
             var response = Request.CreateResponse(HttpStatusCode.OK);
             return response;
         }
