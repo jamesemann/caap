@@ -1,0 +1,39 @@
+C:\caap\caap\luis.ai\bin\Bot Application1.dll.config
+C:\caap\caap\luis.ai\bin\Bot Application1.dll
+C:\caap\caap\luis.ai\bin\Bot Application1.pdb
+C:\caap\caap\luis.ai\bin\Autofac.dll
+C:\caap\caap\luis.ai\bin\Chronic.dll
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Builder.dll
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Connector.dll
+C:\caap\caap\luis.ai\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\caap\caap\luis.ai\bin\Microsoft.Rest.ClientRuntime.dll
+C:\caap\caap\luis.ai\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\caap\caap\luis.ai\bin\Newtonsoft.Json.dll
+C:\caap\caap\luis.ai\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\caap\caap\luis.ai\bin\System.Net.Http.Formatting.dll
+C:\caap\caap\luis.ai\bin\System.Web.Http.dll
+C:\caap\caap\luis.ai\bin\System.Web.Http.WebHost.dll
+C:\caap\caap\luis.ai\bin\Autofac.xml
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Builder.xml
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Connector.xml
+C:\caap\caap\luis.ai\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\caap\caap\luis.ai\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\caap\caap\luis.ai\bin\Microsoft.Rest.ClientRuntime.xml
+C:\caap\caap\luis.ai\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\caap\caap\luis.ai\bin\Newtonsoft.Json.xml
+C:\caap\caap\luis.ai\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\caap\caap\luis.ai\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\caap\caap\luis.ai\bin\System.Net.Http.Formatting.xml
+C:\caap\caap\luis.ai\bin\System.Web.Http.xml
+C:\caap\caap\luis.ai\bin\System.Web.Http.WebHost.xml
+C:\caap\caap\luis.ai\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\obj\Debug\LuisDemo.csprojResolveAssemblyReference.cache
+C:\caap\caap\luis.ai\obj\Debug\Bot Application1.dll
+C:\caap\caap\luis.ai\obj\Debug\Bot Application1.pdb

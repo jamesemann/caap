@@ -16,7 +16,25 @@ namespace LuisDemo.Dialogs
         [LuisIntent("settemperature")]
         public async Task IntentSetTemperature(IDialogContext context, LuisResult result)
         {
-            await context.PostAsync($"Setting the temperature ... 🔥🌡☀🌶");
+            // LuisDialog passes in a LuisResult which contains
+            // - The possible Intents and their confidence
+            // - Entities recognised by LUIS categorised by type
+            // - The original query (the users message)
+            var room = (from entity in result.Entities where entity.Type == "room" select entity).FirstOrDefault();
+            var temperature = (from entity in result.Entities where entity.Type == "builtin.temperature" select entity).FirstOrDefault();
+
+            await context.PostAsync( $"🔥🌡☀🌶 Setting the temperature 🔥🌡☀🌶");
+
+            if (room != null)
+            {
+                await context.PostAsync($"Room: {room.Entity}");
+            }
+
+            if (temperature != null)
+            {
+                await context.PostAsync($"Temperature: {temperature.Entity}");
+            }
+
             context.Wait(MessageReceived);
         }
 
