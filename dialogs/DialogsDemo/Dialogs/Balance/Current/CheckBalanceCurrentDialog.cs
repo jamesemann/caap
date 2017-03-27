@@ -10,7 +10,7 @@ namespace DialogsDemo.Dialogs.Balance.Current
         // Entry point to the Dialog
         public async Task StartAsync(IDialogContext context)
         {
-            await context.PostAsync("[CheckBalanceCurrentDialog] ...");
+            await context.PostAsync("[CheckBalanceCurrentDialog] Your current account balance is £2000");
 
             // State transition - complete this Dialog and remove it from the stack
             context.Done<object>(new object());

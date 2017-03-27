@@ -32,6 +32,7 @@ namespace DialogsDemo
             isTypingReply.Type = ActivityTypes.Typing;
             await connector.Conversations.ReplyToActivityAsync(isTypingReply);
 
+            
             Thread.Sleep(1000); // guarantee that the typing activity is shown
         }
     }
