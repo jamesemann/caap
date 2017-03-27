@@ -1,0 +1,42 @@
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Bot Application1.dll.config
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Bot Application1.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Bot Application1.pdb
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Autofac.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Chronic.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Newtonsoft.Json.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.Net.Http.Formatting.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.Web.Http.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.Web.Http.WebHost.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Autofac.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Connector.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\Newtonsoft.Json.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.Net.Http.Formatting.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.Web.Http.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\System.Web.Http.WebHost.xml
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\ProactiveBot.csprojResolveAssemblyReference.cache
+C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\Bot Application1.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\Bot Application1.pdb
