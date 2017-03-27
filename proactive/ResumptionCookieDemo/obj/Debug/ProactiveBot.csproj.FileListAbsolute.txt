@@ -1,6 +1,6 @@
-C:\caap\caap\proactive\ResumptionCookieDemo\bin\Bot Application1.dll.config
-C:\caap\caap\proactive\ResumptionCookieDemo\bin\Bot Application1.dll
-C:\caap\caap\proactive\ResumptionCookieDemo\bin\Bot Application1.pdb
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\ProactiveBot.dll.config
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\ProactiveBot.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\bin\ProactiveBot.pdb
 C:\caap\caap\proactive\ResumptionCookieDemo\bin\Autofac.dll
 C:\caap\caap\proactive\ResumptionCookieDemo\bin\Chronic.dll
 C:\caap\caap\proactive\ResumptionCookieDemo\bin\Microsoft.Bot.Builder.Autofac.dll
@@ -37,6 +37,5 @@ C:\caap\caap\proactive\ResumptionCookieDemo\bin\fr\Microsoft.Bot.Builder.resourc
 C:\caap\caap\proactive\ResumptionCookieDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
 C:\caap\caap\proactive\ResumptionCookieDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
 C:\caap\caap\proactive\ResumptionCookieDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\ProactiveBot.csprojResolveAssemblyReference.cache
-C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\Bot Application1.dll
-C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\Bot Application1.pdb
+C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\ProactiveBot.dll
+C:\caap\caap\proactive\ResumptionCookieDemo\obj\Debug\ProactiveBot.pdb

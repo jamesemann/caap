@@ -1,0 +1,16 @@
+{
+  "activityId": "k70a1a6j7kjhjkll9",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "mh5a9ag4ke4f5g2dl",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "h4e0jild975lfab09"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:2275"
+}
